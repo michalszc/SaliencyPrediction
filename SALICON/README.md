@@ -20,4 +20,4 @@ TO DO
 
 
 ## Getting started
-Pre-trained versions of the model are available [here](https://aghedupl-my.sharepoint.com/:f:/g/personal/michalszc_student_agh_edu_pl/ElVcKYYS_1BHtNhXlaB8HPEBw1rTs-vYIlfsCHSh5ucvjA?e=Bu5tmZ). Use the created notebooks to try out the model, making sure to change the model location path. If you want to train it yourself, download the SALICON dataset.
+Pre-trained versions of the model are available [here](https://aghedupl-my.sharepoint.com/:f:/g/personal/michalszc_student_agh_edu_pl/ElVcKYYS_1BHtNhXlaB8HPEBw1rTs-vYIlfsCHSh5ucvjA?e=Bu5tmZ). Use the created notebooks to try out the model, making sure to change the model location path. If you want to train it yourself, download the **SALICON** dataset.

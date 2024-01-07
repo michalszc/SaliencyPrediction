@@ -3,8 +3,8 @@ Using machine learning and computer vision techniques, this study aims to compar
 
 ## Models
 - [SALICON](./SALICON)
-- [ML-NET](./mlnet)
-- [TBA](./TBA)
+- [ML-NET](./ML-NET)
+- [MD-SEM](./MD-SEM)
 
 ## License
 [![Licence](https://img.shields.io/github/license/michalszc/SaliencyPrediction?style=for-the-badge)](./LICENSE)
