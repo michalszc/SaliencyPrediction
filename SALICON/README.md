@@ -11,12 +11,11 @@ As in the original paper, the model contains two DNN streams for **fine** and **
 The model is trained on the [SALICON](http://salicon.net/challenge-2017/) dataset. Only 1000 training and 1000 validation images are used. In our experiments with this model we trained it using the binary cross-entropy loss. As optimizer, we use **SGD** with fixed learning rate of 0.0001 and nestrov momentum of 0.9. Our implementation achieves reasonable results after 100 epochs.
 
 ### Evaluation
-TO DO
-
-|                       |       |      |         |      |      |
+Checked on SALICON dataset.
+|   Model               | AUC   | CC   | KLDiv   | NSS  | SIM  |
 |-----------------------|-------|------|---------|------|------|
-|                       | AUC   | CC   | KLDiv   | NSS  | SIM  |
-|                       |       |      |         |      |      |
+|   SALICON (VGG-16)    | 0.66  | 0.06 | 1.04    | 0.46 | 0.45 |
+|   SALICON (ResNet-50) | 0.63  | 0.18 | 1.05    | 0.80 | 0.49 |
 
 
 ## Getting started

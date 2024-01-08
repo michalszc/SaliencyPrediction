@@ -13,10 +13,10 @@ The model is trained on the **SALICON-MD** generated from the [SALICON](http://s
 
 ### Evaluation
 
-|   Dataset             | AUC   | CC   | KLDiv   | NSS  | SIM  |
-|-----------------------|-------|------|---------|------|------|
-|   SALICON-MD          | 0.9030  | 0.7540 | 0.3831 | 1.4521 | 0.6879 |
-|   CodeCharts1k        |  0.8421 |  0.5670 |  0.9728 | 1.8454 | 0.4857 |
+|   Dataset             | AUC   | CC   | KLDiv | NSS  | SIM  |
+|-----------------------|-------|------|-------|------|------|
+|   SALICON-MD          | 0.90  | 0.75 | 0.38  | 1.45 | 0.68 |
+|   CodeCharts1k        |  0.84 | 0.56 |  0.97 | 1.84 | 0.48 |
 
 
 ## Getting started

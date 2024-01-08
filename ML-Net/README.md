@@ -13,10 +13,10 @@ The model is trained on the [SALICON](http://salicon.net/challenge-2017/) datase
 ### Evaluation
 TO DO
 
-|                       |       |      |         |      |      |
+Checked on SALICON dataset.
+|   Model               | AUC   | CC   | KLDiv   | NSS  | SIM  |
 |-----------------------|-------|------|---------|------|------|
-|                       | AUC   | CC   | KLDiv   | NSS  | SIM  |
-|                       |       |      |         |      |      |
+|   ML-Net (VGG-16)     | 0.56  | 0.23 | 0.58    | 0.96 | 0.56 |
 
 
 ## Getting started
