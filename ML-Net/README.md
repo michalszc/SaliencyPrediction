@@ -11,7 +11,6 @@ Model is based on the VGG-19 model for image recognition. That model is reduced 
 The model is trained on the [SALICON](http://salicon.net/challenge-2017/) dataset. Only 1000 training and 500 validation images are used. In our experiments with this model we trained it using the binary cross-entropy loss. As optimizer, we use **SGD** with fixed learning rate of 0.001 and nestrov momentum of 0.9. Our implementation achieves reasonable results after 40 epochs.
 
 ### Evaluation
-TO DO
 
 Checked on SALICON dataset.
 |   Model               | AUC   | CC   | KLDiv   | NSS  | SIM  |
